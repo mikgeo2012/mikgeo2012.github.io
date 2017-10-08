@@ -1,0 +1,220 @@
+a {
+    text-decoration: none;
+    color: #3A89C9;
+}
+
+a:hover {
+    color: #1B325F;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    background: #EFEFEF;
+}
+
+h1 {
+    font-weight: bolder;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+h3 {
+    color: #3A89C9;
+    margin: 0;
+}
+
+header {
+    background: url('images/header_gradient_blue.jpg');
+    box-shadow: 0 0 5px 0 #000000;
+    color: #EEEEEE; 
+    padding: 10px;
+    text-align: center;
+}
+
+header a, #stickyHeader a {
+    color: #e1e4ed;
+    transition: color 0.3s;
+    -webkit-transition: color 0.3s;
+}
+
+header a:hover, #stickyHeader a:hover {
+    color: #FFFFFF;
+}
+
+section {
+    padding: 10px;
+}
+
+section .icon {
+    color: #999999;
+    display: table-cell;
+    text-align: center;
+    min-width: 50px;
+    max-width: 50px;
+}
+
+section .content {
+    display: table-cell;
+    width: 100%;
+}
+
+#stickyHeader {
+    display: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: url('images/header_gradient_blue.jpg');
+    box-shadow: 0 0 5px 0 #000000;
+    color: #EEEEEE; 
+    padding: 10px;
+    text-align: left;
+}
+
+#stickyHeader h1 {
+    font-size: 1.1em;
+    line-height: 1.1em;
+    display: inline-block;
+    float: left;
+    vertical-align: middle;
+}
+
+.card {
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    padding: 10px;    
+    border-radius: 3px;
+    box-shadow: 0 6px 6px -6px #000000;
+}
+
+.card p:first-child {
+    margin-top: 0;
+}
+
+.card p:last-child {
+    margin-bottom: 0;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+header h2 {
+    font-size: 1.5em;
+}
+
+#info {
+    margin: 10px 0px;
+}
+
+#links a {
+    font-size: 2.5em;
+    margin: 0px 10px;
+}
+
+#links-small {
+    float: right;
+    line-height: 1.1em;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+#links-small a {
+    font-size: 1.5em;
+    margin: 0px 5px;
+}
+
+#links a, #links-small a {
+    transition: none;
+    -webkit-transition: none;
+}
+
+#links i, #links-small i {
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+
+#links a:hover i, #links-small a:hover i {
+    color: #FFFFFF;
+    transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+}
+
+#headshot, #headshot-small {    
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 50%;
+}
+
+#headshot {
+    display: block;
+    margin: auto;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+#headshot-small {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 2px;
+    width: 50px;
+    height: 50px;
+}
+
+#headshot-small img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#headshot img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.card {
+    overflow: auto;
+}
+
+.job {
+    margin-bottom: 10px;
+}
+
+.card .logo {
+    float: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .card .logo {
+        display: none;
+    }
+}
+
+.jobInfo i,
+.jobDetails i {
+    width: 25px;
+    color: #1B325F;
+    text-align: center;
+}
+
+.skillGroup {
+    margin-bottom: 10px;
+}
+
+.skillGroup span {
+    font-size: 0.75em;
+    line-height: 2em;
+    font-weight: bold;
+    background: #3A89C9;
+    color: #FFFFFF;
+    padding: 2px 5px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
