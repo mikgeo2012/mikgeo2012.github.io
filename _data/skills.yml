@@ -1,0 +1,35 @@
+development:
+  - item: Java
+  - item: Python
+  - item: Javascript
+  - item: R
+  - item: Ruby
+  - item: HTML/XML
+  - item: PHP
+  - item: SQL/NOSQL
+
+frameworks:
+  - item: Flask/Jinja
+  - item: Maven
+  - item: Spring
+  - item: Hibernate
+  - item: BottlePy
+  - item: AWS
+  - item: Ruby on Rails
+  - item: Django
+  - item: Nodejs/Reactjs/Angularjs/JQuery/Ajax
+
+tools:
+  - item: Git + Github
+  - item: Command Line
+  - item: Chrome DevTools
+  - item: UNIX
+  - item: Subversion
+  - item: Oracle Database
+
+knowledge:
+  - item: REST/SOAP
+  - item: Agile
+  - item: Usability
+  - item: SEO
+  - item: TDD

@@ -1,0 +1,19 @@
+- row: row1
+  services:
+    - heading: Application Development
+      sprite: xd
+      text: Using anything from Python to Javascript to create both stand alone and web applications that aim to solve problems that I encounter in my daily life.
+
+    - heading: Web Development
+      sprite: webdev
+      text: Using HTML, CSS, and JavaScript with pre-processors and build tools such as Sass and Grunt, I have a passion for developing pixel-perfect websites and apps while maintaining a semantic, modular, and DRY code base.
+
+- row: row2
+  services:
+    - heading: Enterprise App Development
+      sprite: wit
+      text: I have professional experience using a variety of languages and frameworks to develop enterprise applications with an emphasis on reliability, efficiency and scalability.
+
+    - heading: Volunteering
+      sprite: ui
+      text: Beyond coding, I feel passionate about volunteering my time and energy towards beterring the community. I currently volunteer with the Red Cross helping them with everything from blood drives to food shelters. Previously I volunteered with Minds Matters to mentor a high-achieving high schooler from a difficult socio-economic background.

@@ -1,0 +1,45 @@
+# Site settings
+name: Mikhail George
+title: Mikhail George | Software Engineer
+description: Detail oriented software engineer passionate about creating products that make life a little easier
+url: http://mikgeo2012.github.io
+baseurl: ""
+email: mikgeo2012@gmail.com
+cover: img/bg-intro/bg-intro.jpg
+logo:  img/logo-black.png
+resume: resume.pdf
+social:
+  - title: email
+    url: mailto:mikgeo2012@gmail.com
+  - title: twitter
+    url: https://twitter.com/bchiang7
+  - title: instagram
+    url: https://instagram.com/bchiang7
+  - title: codepen
+    url: http://codepen.io/bchiang7
+  - title: github
+    url: https://github.com/mikgeo2012
+  - title: linkedin
+    url: https://www.linkedin.com/in/bchiang7
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap

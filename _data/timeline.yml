@@ -1,0 +1,44 @@
+- position: University of Michigan
+  company: BBA in Finance & BS in Economics
+  description: Graduated with a dual degree in Finance from the Ross School of Business and Economics from the College of Literature, Science, and the Arts
+  sprite: university
+  date: 2008 - 2012
+
+- position: Software Developer
+  company: uRefer
+  description: Designed and developed robust and scalable content management solutions for clients using a LAMP stack.
+  sprite: industry
+  date: 2009 - 2010
+
+- position: Trading Analyst
+  company: BP
+  description: I worked closely with the market economics bench and specifically Gathered and analyzed historical North American shale oil fracking data and analyzed individual wells' profitability using Python and R. Led the distillate trading bench to re-enter the US west coast refined products market and analyzed the futures and derivatives market for the domestic crude oil bench.
+  sprite: industry
+  date: 2012 - 2015
+
+
+- position: Software Engineer Intern
+  company: Transunion
+  description: Designed and implemented hadoop-based big data storage and analysis solution for external clients utilizing Apache Hbase, Hive and Drill. Enhanced internal project tracking tools with Python's Bottlepy framework to enable user-friendly interface.
+  sprite: industry
+  date: Jun 2016 - Sept 2016
+
+
+- position: University of Chicago
+  company: MS in Computer Science
+  description: Received a Master's of Science in Computer Science from the University of Chicago. Emphasis was on cloud computing and big data.
+  sprite: academic
+  date: 2015 - 2017
+
+
+
+
+
+
+
+# - position: UI Engineer Co-op
+#   company: Apple
+#   url: http://www.apple.com/
+#   description: Worked on iTunes using Ember.js
+#   sprite: industry
+#   date: July - Dec 2017
