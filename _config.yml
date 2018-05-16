@@ -1,7 +1,7 @@
 # Site settings
 name: Mikhail George
 title: Mikhail George | Software Engineer
-description: Detail oriented software engineer passionate about creating products that make life a little easier
+description: Software engineer focused on creating highly-scalable, distributed systems. I'm also passionate about creating products that make life a little easier
 url: http://mikgeo2012.github.io
 baseurl: ""
 email: mikgeo2012@gmail.com
@@ -11,16 +11,10 @@ resume: resume.pdf
 social:
   - title: email
     url: mailto:mikgeo2012@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
   - title: github
     url: https://github.com/mikgeo2012
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/mikhailgeorge/
 
 # Build settings
 markdown: kramdown
