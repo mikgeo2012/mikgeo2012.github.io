@@ -1,12 +1,12 @@
 development:
-  - item: Java
+  - item: Golang
   - item: Python
-  - item: Javascript
+  - item: Java
   - item: R
-  - item: Ruby
+  - item: SQL/NOSQL
   - item: HTML/XML
   - item: PHP
-  - item: SQL/NOSQL
+  - item: 
 
 frameworks:
   - item: Flask/Jinja

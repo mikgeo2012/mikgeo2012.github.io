@@ -31,6 +31,13 @@
   date: 2015 - 2017
 
 
+- position: Software Engineer
+  company: Centene
+  description: Worked as a back-end engineer developing a highly-scalable, robust healthcare application. Tech stack included Golang, Docker / Kubernetes / Helm, Mongodb / ElasticSearch.
+  sprite: industry
+  date: 2017 - Present
+
+
 
 
 
