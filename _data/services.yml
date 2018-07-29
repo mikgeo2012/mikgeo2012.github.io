@@ -5,13 +5,13 @@
       text: I have professional experience using a variety of languages and frameworks to develop enterprise applications with an emphasis on reliability, efficiency and scalability.
 
     - heading: ETL Solutions
-      sprite: ui
+      sprite: xd
       text: Experience building highly scalable ETL solutions to manage a large amount of data in near real-time.
 
 - row: row2
   services:
     - heading: Application Development
-      sprite: xd
+      sprite: ui
       text: Using anything from Python to Javascript to create both stand alone and web applications that aim to solve problems that I encounter in my daily life.
 
     - heading: Web Development
