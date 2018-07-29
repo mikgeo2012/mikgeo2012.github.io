@@ -13,9 +13,9 @@ social:
     url: mailto:mikgeo2012@gmail.com
   - title: github
     url: https://github.com/mikgeo2012
-  # - title: linkedin
-  #   url: https://www.linkedin.com/in/mikhailgeorge/
   - title: linkedin
+    url: https://www.linkedin.com/in/mikhailgeorge/
+  - title: blog
     url: http://35.232.87.186/
 
 # Build settings
