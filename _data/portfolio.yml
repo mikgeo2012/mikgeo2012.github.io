@@ -2,7 +2,7 @@
   demo:
   code: https://github.com/mikgeo2012/myDiamond
   description: Aggregate diamond data from various wholesalers and Calculate various measurements to score and rank diamonds.
-  img: crowddj
+  img:
   used:
     - thing: Go
     - thing: Python
@@ -13,12 +13,12 @@
     - thing: Kafka
 
 
-- title: Online Resume
-  demo:
-  code: https://github.com/bchiang7/react-profile/
-  description: This is just an online version of my resume I made for fun. I was interested in learning React.js, so I found this <a href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
-  img: resume
-  used:
-  - thing: JavaScript
-  - thing: React.js
-  - thing: CSS
+# - title: Online Resume
+#   demo:
+#   code: https://github.com/bchiang7/react-profile/
+#   description: This is just an online version of my resume I made for fun. I was interested in learning React.js, so I found this <a href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
+#   img:
+#   used:
+#   - thing: JavaScript
+#   - thing: React.js
+#   - thing: CSS
