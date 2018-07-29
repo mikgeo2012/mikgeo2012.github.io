@@ -1,35 +1,37 @@
 development:
   - item: Golang
   - item: Python
-  - item: Java
+  - item: Java 8 EE
   - item: R
   - item: SQL/NOSQL
-  - item: HTML/XML
-  - item: PHP
-  - item: 
+  - item: Bash
+  - item: Git
+  - item:
 
 frameworks:
-  - item: Flask/Jinja
+  - item: MongoDB
   - item: Maven
   - item: Spring
   - item: Hibernate
-  - item: BottlePy
+  - item: Kafka
   - item: AWS
-  - item: Ruby on Rails
+  - item: Elastic Search
   - item: Django
-  - item: Nodejs/Reactjs/Angularjs/JQuery/Ajax
+  - item: Reactjs/Angularjs
 
 tools:
-  - item: Git + Github
-  - item: Command Line
-  - item: Chrome DevTools
-  - item: UNIX
-  - item: Subversion
-  - item: Oracle Database
+  - item: Docker / Kubernetes / Rancher
+  - item: Helm
+  - item: Jenkins
+  - item: Google Cloud Platform
+  - item: MongoDB
+  - item: Elastic Search
+  - item: MS SQL Server
+  - item: PowerExchange CDC
 
 knowledge:
-  - item: REST/SOAP
+  - item: Microservice Oriented Architecture
   - item: Agile
-  - item: Usability
-  - item: SEO
-  - item: TDD
+  - item: CI/CD
+  - item: ETL Solutions
+  - item: VCS
