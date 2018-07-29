@@ -6,7 +6,7 @@
   }
   .skills-flex-wrapper {
     font: 100 30px 'Whitney';
-    height: 17em;
+    height: 13em;
     flex-flow: column wrap;
     @include MQ(M) {
       display: block;
@@ -148,8 +148,8 @@
   .check-wrapper {
     .tools-wrapper,
     .knowledge-wrapper {
-      width: 50%;
       padding: 35%;
+      width: 50%;
       display: inline-block;
       vertical-align: top;
       overflow: hidden;
