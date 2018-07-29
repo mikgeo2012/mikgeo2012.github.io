@@ -6,7 +6,6 @@ development:
   - item: SQL/NOSQL
   - item: Bash
   - item: Git
-  - item:
 
 frameworks:
   - item: MongoDB
