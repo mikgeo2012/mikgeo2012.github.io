@@ -6,7 +6,7 @@
   }
   .skills-flex-wrapper {
     font: 100 30px 'Whitney';
-    height: 13em;
+
     flex-flow: column wrap;
     @include MQ(M) {
       display: block;
